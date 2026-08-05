@@ -36,7 +36,7 @@ Through these projects, I learned:
 ## 📂 Repository Purpose
 
 The purpose of this repository is to store and showcase my first semester practical work and learning progress in web development.
-
+  
 ## 👨‍💻 Author
 
 <h1><b>**Mausam Kumar**</b></h1>
