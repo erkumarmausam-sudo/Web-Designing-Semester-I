@@ -40,6 +40,7 @@ The purpose of this repository is to store and showcase my first semester practi
 ## 👨‍💻 Author
 
 <h1><b>**Mausam Kumar**</b></h1>
+
 ---
 
 ## ✨ Keep Learning • Keep Coding • Keep Growing 🚀
