@@ -43,6 +43,7 @@ The purpose of this repository is to store and showcase my first semester practi
 
 ---
 
+
 ## ✨ Keep Learning • Keep Coding • Keep Growing 🚀
 
 > **"The more you code, the more you learn. Every problem solved today prepares you for tomorrow's challenges."** 💙
